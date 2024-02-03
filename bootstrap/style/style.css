@@ -1,0 +1,21 @@
+body{
+    background-color: #202222 !important;
+    background: linear-gradient(180deg, #39837811 0%, rgba(57, 131, 120, 0.00) 100%);
+}
+main{
+    min-height: 400vh;
+    
+}
+.btn-primary{
+    background-color: #398378 !important;
+    border-color: #398378 !important;
+}
+.text-primary{
+    color: #398378 !important;
+}
+.bg-secondary{
+    background-color: rgba(255, 255, 255, 0.10);
+}
+.bg-primary{
+    background-color: #398378 !important;
+}
